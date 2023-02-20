@@ -1,1 +1,1 @@
-# web
+# download and open index.html
